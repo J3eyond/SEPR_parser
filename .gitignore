@@ -1,0 +1,6 @@
+.idea
+reports/*.html
+alerts/*.txt
+av_status/*.txt
+risk_category/*.txt
+venv

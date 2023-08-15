@@ -1,0 +1,1 @@
+This folder contains Protection Status Snapshot results.
